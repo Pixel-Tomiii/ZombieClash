@@ -8,7 +8,7 @@ Minecraft minigame made using the Spigot API (1.16.5)
 ![The Map](https://user-images.githubusercontent.com/55916455/109423168-60dd2500-79d6-11eb-88c1-033fca3b4ac0.png)
 
 ### Attacking
-  Each player can choose who they want to attack and which lane they want to attack down. They can choose different lanes for each mob they choose. Each mob costs a certain amount of elixir and tokens. Mobs can be upgraded using **upgrade points**[^1]
+  Each player can choose who they want to attack and which lane they want to attack down. They can choose different lanes for each mob they choose. Each mob costs a certain amount of elixir and tokens. Mobs can be upgraded using **upgrade points** [^1]
   
 ### Defending
   There will be 3 options for defence.
